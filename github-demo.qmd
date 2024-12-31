@@ -5,7 +5,18 @@ format: html
 editor: visual
 ---
 
-## Running Codeee
+## GitHub tips 
+
+Below, we are going to define the standard GitHub workflow 
+
+Pull - 
+
+Commit - 
+
+Push - 
+
+
+## Running Codee
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
