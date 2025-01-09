@@ -1,23 +1,23 @@
 ---
 title: "GitHub practice"
-author: "insert name" 
+author: "Elijah Meyer" 
 format: html
 editor: visual
 ---
 
-## GitHub tips 
+## GitHub tips
 
-Below, we are going to define the standard GitHub workflow 
+Below, we are going to define the standard GitHub workflow
 
-Pull - 
+Pull -
 
-Commit - 
+Commit -
 
-Push - 
+Push -
 
-Note: The first time we pull, we may have to tell R how we want to pull. Close the window and type the following into the **Terminal.**  
+Note: The first time we pull, we may have to tell R how we want to pull. Close the window and type the following into the **Terminal.**
 
-git config pull.rebase false     
+git config pull.rebase false
 
 This is the default way to pull / merge code together. More on this when we start to work in groups!
 
